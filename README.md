@@ -9,3 +9,6 @@ O objetivo deste projeto é construir um componente de QR Code que se adapte a d
 - HTML5: Estrutura básica do componente.
 - CSS3: Estilização e layout.
   - Flexbox: Utilizado para criar um layout responsivo e garantir que o componente se ajuste a diferentes tamanhos de tela.
+
+## Referência
+Este projeto é baseado em um desafio da ([Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)). Acesse o link para visualizar as especificações de design e mais detalhes sobre o desafio.
