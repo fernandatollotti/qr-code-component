@@ -25,9 +25,9 @@ img { max-width: 100%; }
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  padding: 13px;
+  padding: 10px;
   border-radius: 14px;
-  width: 240px;
+  width: 210px;
 }
 
 .card .image {
@@ -36,15 +36,16 @@ img { max-width: 100%; }
 
 .card h3 {
   color:  hsl(218, 44%, 22%);
-  padding: 12px 0px;
+  padding: 12px 6px;
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 
 .card p {
   color: hsl(216, 15%, 48%);
   font-weight: 400;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
+  padding: 0px 8px;
   margin-bottom: 14px;
 }
 
